@@ -1,0 +1,51 @@
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\mod.csproj.CopyComplete
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\ModName.dll
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\build\obj\x86\Debug\ModName.pdb
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\ModName.dll
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\ModName.pdb
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\DGInput.dll
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\DGSteam.dll
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\DGInput.pdb
+C:\Users\Ilya\AppData\Roaming\DuckGame\Mods\ModName\DGSteam.pdb
+C:\Users\pon4k\Downloads\Kotoxiks_mod_template (4)\ModName\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\pon4k\Downloads\Kotoxiks_mod_template (4)\ModName\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\pon4k\Downloads\Kotoxiks_mod_template (4)\ModName\build\obj\x86\Debug\ModName.dll
+C:\Users\pon4k\Downloads\Kotoxiks_mod_template (4)\ModName\build\obj\x86\Debug\ModName.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\build\obj\x86\Debug\mod.csproj.CopyComplete
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\build\obj\x86\Debug\Aukvasoft.dll
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\build\obj\x86\Debug\Aukvasoft.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\Aukvasoft.dll
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\Aukvasoft.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\DGInput.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\AukvaSoft\DGSteam.pdb
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\build\obj\x86\Debug\Aukvasoft.dll
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\build\obj\x86\Debug\Aukvasoft.pdb
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\build\obj\x86\Debug\mod.csproj.Up2Date
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\Aukvasoft.dll
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\Aukvasoft.pdb
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\DGInput.pdb
+C:\Users\Алексей Долгих\OneDrive\Рабочий стол\modTemple\DGSteam.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\build\obj\x86\Debug\mod.csproj.Up2Date
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\DGInput.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\DGSteam.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\build\obj\x86\Debug\Mod.dll
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\build\obj\x86\Debug\Mod.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\Mod.dll
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\modTemple\Mod.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\build\obj\x86\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\build\obj\x86\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\build\obj\x86\Debug\mod.csproj.Up2Date
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\DGInput.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\DGSteam.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\build\obj\x86\Debug\ALib.dll
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\build\obj\x86\Debug\ALib.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\ALib.dll
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\Mod\ALib.pdb

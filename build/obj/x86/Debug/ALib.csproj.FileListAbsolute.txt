@@ -1,0 +1,9 @@
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\build\obj\x86\Debug\ALib.csproj.AssemblyReference.cache
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\build\obj\x86\Debug\ALib.csproj.CoreCompileInputs.cache
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\build\obj\x86\Debug\ALib.csproj.Up2Date
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\build\obj\x86\Debug\ALib.dll
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\build\obj\x86\Debug\ALib.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\ALib.dll
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\ALib.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\DGInput.pdb
+C:\Users\Алексей Долгих\AppData\Roaming\DuckGame\Mods\ALib\DGSteam.pdb
