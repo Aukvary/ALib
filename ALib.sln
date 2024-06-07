@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.2.32630.192
+VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mod", "mod.csproj", "{B07BDC3C-3770-4A07-90D8-5C2A68E2172B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ALib", "ALib.csproj", "{B07BDC3C-3770-4A07-90D8-5C2A68E2172B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {6889C928-D256-4888-BB72-90ABF88A3117}
+		SolutionGuid = {EB64DF05-4498-4741-8913-2E1907B45047}
 	EndGlobalSection
 EndGlobal
